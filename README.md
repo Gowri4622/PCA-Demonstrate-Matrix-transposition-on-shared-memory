@@ -23,7 +23,7 @@ Step 5: Reset the CUDA device.
 Step 6: Terminate the program.
 
 ## Program:
-```
+```cuda
 DEVELOPED BY : Gowri M
 REGISTER NO : 212220230019
 
